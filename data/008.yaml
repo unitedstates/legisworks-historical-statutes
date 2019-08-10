@@ -1,0 +1,718 @@
+- volume: 8
+  page: 1
+  npages: 2
+  file: STATUTE-8-Pg1.pdf
+  id: Treaty-making-power
+  topic: ~
+  title: ~
+- volume: 8
+  page: 2
+  npages: 5
+  file: STATUTE-8-Pg2.pdf
+  id: Cases-related
+  topic: ~
+  title: ~
+- volume: 8
+  page: 6
+  npages: 7
+  file: STATUTE-8-Pg6.pdf
+  type: treaty
+  number: 1
+  topic: ~
+  title: Treaty 1
+- volume: 8
+  page: 12
+  npages: 21
+  file: STATUTE-8-Pg12.pdf
+  type: treaty
+  number: 2
+  topic: ~
+  title: Treaty 2
+- volume: 8
+  page: 32
+  npages: 19
+  file: STATUTE-8-Pg32.pdf
+  type: treaty
+  number: 3
+  topic: ~
+  title: Treaty 3
+- volume: 8
+  page: 50
+  npages: 5
+  file: STATUTE-8-Pg50.pdf
+  type: treaty
+  number: 4
+  topic: ~
+  title: Treaty 4
+- volume: 8
+  page: 54
+  npages: 5
+  file: STATUTE-8-Pg54.pdf
+  type: treaty
+  number: 5
+  topic: ~
+  title: Treaty 5
+- volume: 8
+  page: 58
+  npages: 3
+  file: STATUTE-8-Pg58.pdf
+  type: treaty
+  number: 6
+  topic: ~
+  title: Treaty 6
+- volume: 8
+  page: 60
+  npages: 21
+  file: STATUTE-8-Pg60.pdf
+  type: treaty
+  number: 7
+  topic: ~
+  title: Treaty 7
+- volume: 8
+  page: 80
+  npages: 5
+  file: STATUTE-8-Pg80.pdf
+  type: treaty
+  number: 8
+  topic: ~
+  title: Treaty 8
+- volume: 8
+  page: 84
+  npages: 17
+  file: STATUTE-8-Pg84.pdf
+  type: treaty
+  number: 9
+  topic: ~
+  title: Treaty 9
+- volume: 8
+  page: 100
+  npages: 7
+  file: STATUTE-8-Pg100.pdf
+  type: treaty
+  number: 10
+  topic: ~
+  title: Treaty 10
+- volume: 8
+  page: 106
+  npages: 11
+  file: STATUTE-8-Pg106.pdf
+  type: treaty
+  number: 11
+  topic: ~
+  title: Treaty 11
+- volume: 8
+  page: 116
+  npages: 15
+  file: STATUTE-8-Pg116.pdf
+  type: treaty
+  number: 12
+  topic: ~
+  title: Treaty 12
+- volume: 8
+  page: 130
+  npages: 2
+  file: STATUTE-8-Pg130.pdf
+  type: treaty
+  number: 13
+  topic: ~
+  title: Treaty 13
+- volume: 8
+  page: 131
+  npages: 3
+  file: STATUTE-8-Pg131.pdf
+  type: treaty
+  number: 14
+  topic: ~
+  title: Treaty 14
+- volume: 8
+  page: 133
+  npages: 6
+  file: STATUTE-8-Pg133.pdf
+  type: treaty
+  number: 15
+  topic: ~
+  title: Treaty 15
+- volume: 8
+  page: 138
+  npages: 17
+  file: STATUTE-8-Pg138.pdf
+  type: treaty
+  number: 16
+  topic: ~
+  title: Treaty 16
+- volume: 8
+  page: 154
+  npages: 4
+  file: STATUTE-8-Pg154.pdf
+  type: treaty
+  number: 17
+  topic: ~
+  title: Treaty 17
+- volume: 8
+  page: 157
+  npages: 6
+  file: STATUTE-8-Pg157.pdf
+  type: treaty
+  number: 18
+  topic: ~
+  title: Treaty 18
+- volume: 8
+  page: 162
+  npages: 17
+  file: STATUTE-8-Pg162.pdf
+  type: treaty
+  number: 19
+  topic: ~
+  title: Treaty 19
+- volume: 8
+  page: 178
+  npages: 15
+  file: STATUTE-8-Pg178.pdf
+  type: treaty
+  number: 20
+  topic: ~
+  title: Treaty 20
+- volume: 8
+  page: 192
+  npages: 2
+  file: STATUTE-8-Pg192.pdf
+  type: treaty
+  number: 21
+  topic: ~
+  title: Treaty 21
+- volume: 8
+  page: 193
+  npages: 4
+  file: STATUTE-8-Pg193.pdf
+  type: treaty
+  number: 22
+  topic: ~
+  title: Treaty 22
+- volume: 8
+  page: 196
+  npages: 3
+  file: STATUTE-8-Pg196.pdf
+  type: treaty
+  number: 23
+  topic: ~
+  title: Treaty 23
+- volume: 8
+  page: 198
+  npages: 3
+  file: STATUTE-8-Pg198.pdf
+  type: treaty
+  number: 24
+  topic: ~
+  title: Treaty 24
+- volume: 8
+  page: 200
+  npages: 7
+  file: STATUTE-8-Pg200.pdf
+  type: treaty
+  number: 25
+  topic: ~
+  title: Treaty 25
+- volume: 8
+  page: 206
+  npages: 3
+  file: STATUTE-8-Pg206.pdf
+  type: treaty
+  number: 26
+  topic: ~
+  title: Treaty 26
+- volume: 8
+  page: 208
+  npages: 7
+  file: STATUTE-8-Pg208.pdf
+  type: treaty
+  number: 27
+  topic: ~
+  title: Treaty 27
+- volume: 8
+  page: 214
+  npages: 5
+  file: STATUTE-8-Pg214.pdf
+  type: treaty
+  number: 28
+  topic: ~
+  title: Treaty 28
+- volume: 8
+  page: 218
+  npages: 7
+  file: STATUTE-8-Pg218.pdf
+  type: treaty
+  number: 29
+  topic: ~
+  title: Treaty 29
+- volume: 8
+  page: 224
+  npages: 5
+  file: STATUTE-8-Pg224.pdf
+  type: treaty
+  number: 30
+  topic: ~
+  title: Treaty 30
+- volume: 8
+  page: 228
+  npages: 4
+  file: STATUTE-8-Pg228.pdf
+  type: treaty
+  number: 31
+  topic: ~
+  title: Treaty 31
+- volume: 8
+  page: 231
+  npages: 2
+  file: STATUTE-8-Pg231.pdf
+  type: treaty
+  number: 32
+  topic: ~
+  title: Treaty 32
+- volume: 8
+  page: 232
+  npages: 13
+  file: STATUTE-8-Pg232.pdf
+  type: treaty
+  number: 33
+  topic: ~
+  title: Treaty 33
+- volume: 8
+  page: 244
+  npages: 5
+  file: STATUTE-8-Pg244.pdf
+  type: treaty
+  number: 34
+  topic: ~
+  title: Treaty 34
+- volume: 8
+  page: 248
+  npages: 3
+  file: STATUTE-8-Pg248.pdf
+  type: treaty
+  number: 35
+  topic: ~
+  title: Treaty 35
+- volume: 8
+  page: 250
+  npages: 3
+  file: STATUTE-8-Pg250.pdf
+  type: treaty
+  number: 36
+  topic: ~
+  title: Treaty 36
+- volume: 8
+  page: 252
+  npages: 23
+  file: STATUTE-8-Pg252.pdf
+  type: treaty
+  number: 37
+  topic: ~
+  title: Treaty 37
+- volume: 8
+  page: 274
+  npages: 5
+  file: STATUTE-8-Pg274.pdf
+  type: treaty
+  number: 38
+  topic: ~
+  title: Treaty 38
+- volume: 8
+  page: 278
+  npages: 5
+  file: STATUTE-8-Pg278.pdf
+  type: treaty
+  number: 39
+  topic: ~
+  title: Treaty 39
+- volume: 8
+  page: 282
+  npages: 17
+  file: STATUTE-8-Pg282.pdf
+  type: treaty
+  number: 40
+  topic: ~
+  title: Treaty 40
+- volume: 8
+  page: 298
+  npages: 5
+  file: STATUTE-8-Pg298.pdf
+  type: treaty
+  number: 41
+  topic: ~
+  title: Treaty 41
+- volume: 8
+  page: 302
+  npages: 5
+  file: STATUTE-8-Pg302.pdf
+  type: treaty
+  number: 42
+  topic: ~
+  title: Treaty 42
+- volume: 8
+  page: 306
+  npages: 17
+  file: STATUTE-8-Pg306.pdf
+  type: treaty
+  number: 43
+  topic: ~
+  title: Treaty 43
+- volume: 8
+  page: 322
+  npages: 19
+  file: STATUTE-8-Pg322.pdf
+  type: treaty
+  number: 44
+  topic: ~
+  title: Treaty 44
+- volume: 8
+  page: 340
+  npages: 5
+  file: STATUTE-8-Pg340.pdf
+  type: treaty
+  number: 45
+  topic: ~
+  title: Treaty 45
+- volume: 8
+  page: 344
+  npages: 3
+  file: STATUTE-8-Pg344.pdf
+  type: treaty
+  number: 46
+  topic: ~
+  title: Treaty 46
+- volume: 8
+  page: 346
+  npages: 15
+  file: STATUTE-8-Pg346.pdf
+  type: treaty
+  number: 47
+  topic: ~
+  title: Treaty 47
+- volume: 8
+  page: 360
+  npages: 3
+  file: STATUTE-8-Pg360.pdf
+  type: treaty
+  number: 48
+  topic: ~
+  title: Treaty 48
+- volume: 8
+  page: 362
+  npages: 5
+  file: STATUTE-8-Pg362.pdf
+  type: treaty
+  number: 49
+  topic: ~
+  title: Treaty 49
+- volume: 8
+  page: 366
+  npages: 7
+  file: STATUTE-8-Pg366.pdf
+  type: treaty
+  number: 50
+  topic: ~
+  title: Treaty 50
+- volume: 8
+  page: 372
+  npages: 5
+  file: STATUTE-8-Pg372.pdf
+  type: treaty
+  number: 51
+  topic: ~
+  title: Treaty 51
+- volume: 8
+  page: 376
+  npages: 3
+  file: STATUTE-8-Pg376.pdf
+  type: treaty
+  number: 52
+  topic: ~
+  title: Treaty 52
+- volume: 8
+  page: 378
+  npages: 9
+  file: STATUTE-8-Pg378.pdf
+  type: treaty
+  number: 53
+  topic: ~
+  title: Treaty 53
+- volume: 8
+  page: 386
+  npages: 5
+  file: STATUTE-8-Pg386.pdf
+  type: treaty
+  number: 54
+  topic: ~
+  title: Treaty 54
+- volume: 8
+  page: 390
+  npages: 9
+  file: STATUTE-8-Pg390.pdf
+  type: treaty
+  number: 55
+  topic: ~
+  title: Treaty 55
+- volume: 8
+  page: 398
+  npages: 5
+  file: STATUTE-8-Pg398.pdf
+  type: treaty
+  number: 56
+  topic: ~
+  title: Treaty 56
+- volume: 8
+  page: 402
+  npages: 7
+  file: STATUTE-8-Pg402.pdf
+  type: treaty
+  number: 57
+  topic: ~
+  title: Treaty 57
+- volume: 8
+  page: 408
+  npages: 3
+  file: STATUTE-8-Pg408.pdf
+  type: treaty
+  number: 58
+  topic: ~
+  title: Treaty 58
+- volume: 8
+  page: 410
+  npages: 21
+  file: STATUTE-8-Pg410.pdf
+  type: treaty
+  number: 59
+  topic: ~
+  title: Treaty 59
+- volume: 8
+  page: 430
+  npages: 5
+  file: STATUTE-8-Pg430.pdf
+  type: treaty
+  number: 60
+  topic: ~
+  title: Treaty 60
+- volume: 8
+  page: 434
+  npages: 9
+  file: STATUTE-8-Pg434.pdf
+  type: treaty
+  number: 61
+  topic: ~
+  title: Treaty 61
+- volume: 8
+  page: 442
+  npages: 3
+  file: STATUTE-8-Pg442.pdf
+  type: treaty
+  number: 62
+  topic: ~
+  title: Treaty 62
+- volume: 8
+  page: 444
+  npages: 11
+  file: STATUTE-8-Pg444.pdf
+  type: treaty
+  number: 63
+  topic: ~
+  title: Treaty 63
+- volume: 8
+  page: 454
+  npages: 3
+  file: STATUTE-8-Pg454.pdf
+  type: treaty
+  number: 64
+  topic: ~
+  title: Treaty 64
+- volume: 8
+  page: 456
+  npages: 3
+  file: STATUTE-8-Pg456.pdf
+  type: treaty
+  number: 65
+  topic: ~
+  title: Treaty 65
+- volume: 8
+  page: 458
+  npages: 3
+  file: STATUTE-8-Pg458.pdf
+  type: treaty
+  number: 66
+  topic: ~
+  title: Treaty 66
+- volume: 8
+  page: 460
+  npages: 5
+  file: STATUTE-8-Pg460.pdf
+  type: treaty
+  number: 67
+  topic: ~
+  title: Treaty 67
+- volume: 8
+  page: 464
+  npages: 3
+  file: STATUTE-8-Pg464.pdf
+  type: treaty
+  number: 68
+  topic: ~
+  title: Treaty 68
+- volume: 8
+  page: 466
+  npages: 19
+  file: STATUTE-8-Pg466.pdf
+  type: treaty
+  number: 69
+  topic: ~
+  title: Treaty 69
+- volume: 8
+  page: 484
+  npages: 4
+  file: STATUTE-8-Pg484.pdf
+  type: treaty
+  number: 70
+  topic: ~
+  title: Treaty 70
+- volume: 8
+  page: 487
+  npages: 12
+  file: STATUTE-8-Pg487.pdf
+  type: treaty
+  number: 71
+  topic: ~
+  title: Treaty 71
+- volume: 8
+  page: 498
+  npages: 13
+  file: STATUTE-8-Pg498.pdf
+  type: treaty
+  number: 72
+  topic: ~
+  title: Treaty 72
+- volume: 8
+  page: 510
+  npages: 2
+  file: STATUTE-8-Pg510.pdf
+  type: treaty
+  number: 73
+  topic: ~
+  title: Treaty 73
+- volume: 8
+  page: 511
+  npages: 2
+  file: STATUTE-8-Pg511.pdf
+  type: treaty
+  number: 74
+  topic: ~
+  title: Treaty 74
+- volume: 8
+  page: 512
+  npages: 13
+  file: STATUTE-8-Pg512.pdf
+  type: treaty
+  number: 75
+  topic: ~
+  title: Treaty 75
+- volume: 8
+  page: 524
+  npages: 3
+  file: STATUTE-8-Pg524.pdf
+  type: treaty
+  number: 76
+  topic: ~
+  title: Treaty 76
+- volume: 8
+  page: 526
+  npages: 9
+  file: STATUTE-8-Pg526.pdf
+  type: treaty
+  number: 77
+  topic: ~
+  title: Treaty 77
+- volume: 8
+  page: 534
+  npages: 19
+  file: STATUTE-8-Pg534.pdf
+  type: treaty
+  number: 78
+  topic: ~
+  title: Treaty 78
+- volume: 8
+  page: 552
+  npages: 9
+  file: STATUTE-8-Pg552.pdf
+  type: treaty
+  number: 79
+  topic: ~
+  title: Treaty 79
+- volume: 8
+  page: 560
+  npages: 11
+  file: STATUTE-8-Pg560.pdf
+  type: treaty
+  number: 80
+  topic: ~
+  title: Treaty 80
+- volume: 8
+  page: 570
+  npages: 3
+  file: STATUTE-8-Pg570.pdf
+  type: treaty
+  number: 81
+  topic: ~
+  title: Treaty 81
+- volume: 8
+  page: 572
+  npages: 7
+  file: STATUTE-8-Pg572.pdf
+  type: treaty
+  number: 82
+  topic: ~
+  title: Treaty 82
+- volume: 8
+  page: 578
+  npages: 3
+  file: STATUTE-8-Pg578.pdf
+  type: treaty
+  number: 83
+  topic: ~
+  title: Treaty 83
+- volume: 8
+  page: 580
+  npages: 5
+  file: STATUTE-8-Pg580.pdf
+  type: treaty
+  number: 84
+  topic: ~
+  title: Treaty 84
+- volume: 8
+  page: 584
+  npages: 5
+  file: STATUTE-8-Pg584.pdf
+  type: treaty
+  number: 85
+  topic: ~
+  title: Treaty 85
+- volume: 8
+  page: 588
+  npages: 5
+  file: STATUTE-8-Pg588.pdf
+  type: treaty
+  number: 86
+  topic: ~
+  title: Treaty 86
+- volume: 8
+  page: 592
+  npages: 15
+  file: STATUTE-8-Pg592.pdf
+  type: treaty
+  number: 87
+  topic: ~
+  title: Treaty 87
+- volume: 8
+  page: 606
+  npages: 14
+  file: STATUTE-8-Pg606.pdf
+  type: treaty
+  number: 88
+  topic: ~
+  title: Treaty 88
