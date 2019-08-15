@@ -10,7 +10,7 @@ The following table gives an overview of the data in this repository. As the tab
 
 The final six columns gives the total number of entries in each volume by type (for the most frequent types). You can see that between the 31st and 32nd volumes, the numbering of laws switched over from the old Chapter format to the new Public Law format.
 
-|Volume|Congress|Pages|publaw|chap|pubres|jointres|proc|treaty|
+|Volume|Congress|Pages|Pub. Law|Chapter|Pub. Res.|Joint Res.|Pres. Proc.|Treaty|
 |-----:|-------:|----:|-----:|---:|-----:|-------:|---:|-----:|
 |1|1-5|1,247|0|459|0|28|0|0|
 |2|6-12|1,542|0|691|0|22|0|0|
@@ -145,7 +145,19 @@ and several lesser used values.
 
 (Public laws refers to laws that are generally applicable, while private laws refers to laws that affected a small number of individualls, usually by name, and often related to immigration matters.)
 
-`number` is the law number or other number associated with the item. The value is an integer in almost all cases. In a very small number of cases the value is a string containing the letter A or the symbol ½.
+`number` is the law number or other number associated with the item. The value is an integer in almost all cases,  but in eight cases the Statutes at Large contains an entry with an odd number:
+
+| Volume | Page | Entry | Number |
+| ------ | ---- | ----- | ---- |
+| 36 | 352 | Pub. Law 61-167½ | '167½' |
+| 40 | 1053 | Pub. Law 65-246½ | '246½' |
+| 42 | 147 | Pub. Law 67-45-46 | '45-46' |
+| 44 | 777 | Pub. Law 69-439½ | '439½' |
+| 49 | 674 | Pub. Law 74-297½ | '297½' |
+| 49 | 1894 | Pub. Law 74-770½ | '770½' |
+| 51 | 295 | E. A. S. 75-107A | '107-A' |
+| 59 | 502 | Pub. Law 79-160-A | '160-A' |
+
 
 The `congress`, `session`, `type`, and `number` taken together can unqiuely identify virtually all entries in the dataset. (Where it doesn't, it may be a data entry error.) Prior to volume 38 (the 60th Congress), the numbering of entries restarted with each _session_, but starting with that volume, `congress`, `type`, and `number` are sufficient to uniquely identify virtually all entries (with the handful remaining being possible data errors).
 
