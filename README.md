@@ -187,3 +187,18 @@ To acess the PDF, form a URL by substituting the `volume` and `file` fields into
     https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/{volume}/{file}
 
 For instance [https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/46/STATUTE-46-Pg822a.pdf](https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/46/STATUTE-46-Pg822a.pdf) holds Pub. Law 71-457.
+
+### Missing Pages
+
+Some pages were missing from the source scans, and as a result the PDF files may be missing pages.
+
+* Volume 47 is missing page 1622 at the end of the volume. Available at wikisource.org.
+* Volume 50 is missing page 319. Not available at wikisource.org.
+* Volume 51 is missing pages 6, 7, 12, 277, 302, and 370.
+* Volume 55 is missing pages 690 and 691.
+* Volume 56 is missing pages 803 and 804.
+* Volume 58 is missing pages 28-30, 187, and 247-252.
+* Volume 60 is missing page 252.
+* Volume 62 is missing pages 130-135, 866, 867, and 992-1009. Page 1009 is the start of Public Law 774.
+* Volume 63 is missing pages 806, 813, 965, 966, and 1045-1049.
+* Volume 64 is missing pages 913, 922-926.

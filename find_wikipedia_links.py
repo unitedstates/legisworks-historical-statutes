@@ -82,6 +82,8 @@ pages =  list(get_pages_that_embed("Template: USPL"))
 pages += list(get_pages_that_embed("Template: USStat"))
 pages += list(get_pages_that_embed("Template: USStatute"))
 
+print(pages)
+
 # Uniqueify.
 pages = [ { "pageid": pageid } for pageid in set(p["pageid"] for p in pages) ]
 
