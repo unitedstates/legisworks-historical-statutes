@@ -85,12 +85,14 @@ The Legisworks Statutes at Large Project (http://legisworks.org/sal/) was a proj
 
 The PDFs were originally sourced from [Constitution.org](http://www.constitution.org/uslaw/sal/sal.htm), who had digitized and OCRd the physical volumes. Volunteers typed up the per-statute page numbers, topic, and title, and split the PDFs into per-statute files. (The volunteers were Daniel Schuman, Joseph Jerome, Sara S. Frug, Owen Ambur, Matthew Steinberg, Eric Branson, Kathy K. Carmichael, Susannah Savage, Azhar Unwala, and Daniel Bennett.) In 2019, Joe asked Joshua Tauberer to take over the project --- Joshua converted the information to the YAML metadata files in this repository.
 
-The data in this repository is messy. The Statutes at Large itself is messy (there are law numbers with "½" symbols!), the original PDFs were missing some pages, the scans and OCR which may have been used to extract text metadata were imperfect, the metadata was often typed by hand, etc.
+In August-October 2014, the [USPL](https://en.wikipedia.org/wiki/Template:USPL), [USStat](https://en.wikipedia.org/wiki/Template:USStat), and [USStatute](https://en.wikipedia.org/wiki/Template:USStatute) Wikipedia templates were updated to link to legislink.org for statutes. In 2019, Joshua took over legislink.org and merged it into his project [uslaw.link](https://uslaw.link/), a resolver for U.S. law legal citations, preserving the URLs to statutes used by the Wikipedia templates (see https://github.com/unitedstates/uslaw.link).
 
 Metadata
 --------
 
 The [data](data) directory contains a YAML-formatted file for each volume of the U.S. Statutes at Large [001.yaml](data/001.yaml) through [064.yaml](data/064.yaml). Each file is an array describing the entries in the volume. An entry can be a law, a resolution, and collection of laws for a session, and so on.
+
+The data in this repository is messy. The Statutes at Large itself is messy (there are law numbers with "½" symbols!), the original PDFs were missing some pages, the scans and OCR which may have been used to extract text metadata were imperfect, the metadata was often typed by hand, etc.
 
 Entries begin with the following fields:
 
